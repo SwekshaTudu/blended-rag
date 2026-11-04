@@ -1,6 +1,5 @@
 # Kubernetes troubleshooting retrieval
-
-Task 7: retrieve useful evidence from a large technical knowledge base using an
+ Task : Retrieve useful evidence from a large technical knowledge base using an
 adaptation of IBM's Blended-RAG KNN + best_fields configuration.
 
 Input is a troubleshooting question. Output is ranked passages with document
